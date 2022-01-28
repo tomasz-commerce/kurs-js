@@ -1,1 +1,3 @@
-alert('This works!')
+document.addEventListener('DOMContentLoaded', function(event) {
+    alert('This works!')
+})
