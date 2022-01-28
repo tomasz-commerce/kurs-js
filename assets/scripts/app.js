@@ -1,3 +1,5 @@
-document.addEventListener('DOMContentLoaded', function(event) {
-    alert('This works!')
-})
+(function() {
+   alert('This works!')
+   // the DOM will be available here
+
+})();
